@@ -1,0 +1,29 @@
+{
+    "typeface": {
+        "name": "TCA",
+        "author": [
+            "Eli Adams, Baylee Champion, Diedre Corrigan, Mollie Edgar, Ben Medina, Richard Medina, Amaya Mensinger, Christopher Molina,  and Bryce Wilner",
+        ],
+        "licence": "OFL",
+        "foundry": "Undefined",
+        "unicode-ranges": "Basic Latin",
+        "tags": [
+            "sans serif",
+            "libre",
+            "open source",
+        ],
+        "repository-URL": "https://github.com/brycewilner/TCA",
+        "project-URL": "http://www.brycewilner.com/fonts.html",
+        "download-URL": "https://github.com/brycewilner/TCA/blob/master/TCA.otf",
+        "softwares": [
+            "FontForge"
+        ],
+       
+        "sample-text": "Pick you choice.",
+        "font": {
+            "name": "TCA",
+            "weight": "regular",
+            "creation-date": "2014"
+        }
+    }
+}
