@@ -1,6 +1,6 @@
 TCA
 
-A font in one weight.
+A monospaced font in one weight.
 
 Designed by Eli Adams, Diedre Corrigan, Baylee Champion, Ben Medina, Richard Medina, Amaya Mensinger, and Christopher Molina during a typography workshop hosted by Mollie Edgar and Bryce Wilner at the Museum of Contemporary Art Chicago on November 15, 2014.
 
